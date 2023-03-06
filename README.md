@@ -14,7 +14,7 @@ com as informações do endereço, além de calcular o frete com base no estado 
 * Inicie a aplicação a partir da classe DesafioWiproApplication.
 * Utilize uma ferramenta de sua preferência (como o Postman) para realizar requisições para a API. 
 O endpoint para realizar a consulta de endereço é POST /v1/consulta-endereco. Também podemos utilizar o 
-Swagger com o endereço <http://localhost:8080/swagger-ui/index.html>.
+Swagger a partir do endereço <http://localhost:8080/swagger-ui/index.html>.
 
 ### Exemplo de requisição
 ~~~json
